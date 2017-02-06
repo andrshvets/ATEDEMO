@@ -1,0 +1,7 @@
+com\eleks\emaildemo\pageobjects\BasicPage.class
+com\eleks\emaildemo\pageobjects\WrongPageException.class
+com\eleks\emaildemo\pageobjects\MessagePage.class
+com\eleks\emaildemo\pageobjects\LogInPage.class
+com\eleks\emaildemo\pageobjects\InBoxPage.class
+com\eleks\emaildemo\pageobjects\PassportPage.class
+com\eleks\emaildemo\pageobjects\SingletonWD.class

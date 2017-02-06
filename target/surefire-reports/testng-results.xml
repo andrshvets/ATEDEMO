@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29712" started-at="2017-02-06T20:18:55Z" finished-at="2017-02-06T20:19:25Z">
+    <groups>
+    </groups>
+    <test name="Tests" duration-ms="29712" started-at="2017-02-06T20:18:55Z" finished-at="2017-02-06T20:19:25Z">
+      <class name="com.eleks.emaildemo.tests.LogInTest">
+        <test-method status="PASS" signature="logInTest()[pri:0, instance:com.eleks.emaildemo.tests.LogInTest@3b81a1bc]" name="logInTest" duration-ms="14704" started-at="2017-02-06T22:18:55Z" finished-at="2017-02-06T22:19:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+      </class> <!-- com.eleks.emaildemo.tests.LogInTest -->
+      <class name="com.eleks.emaildemo.tests.ReadMailTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.eleks.emaildemo.tests.ReadMailTest@22f71333]" name="setUp" is-config="true" duration-ms="5326" started-at="2017-02-06T22:18:50Z" finished-at="2017-02-06T22:18:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="readMailTest()[pri:0, instance:com.eleks.emaildemo.tests.ReadMailTest@22f71333]" name="readMailTest" duration-ms="7953" started-at="2017-02-06T22:19:17Z" finished-at="2017-02-06T22:19:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readMailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.eleks.emaildemo.tests.ReadMailTest@22f71333]" name="tearDown" is-config="true" duration-ms="1410" started-at="2017-02-06T22:19:25Z" finished-at="2017-02-06T22:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.eleks.emaildemo.tests.ReadMailTest -->
+      <class name="com.eleks.emaildemo.tests.LogInWrongPasswordTest">
+        <test-method status="PASS" signature="logInWithWorngPasswordTest()[pri:0, instance:com.eleks.emaildemo.tests.LogInWrongPasswordTest@26ba2a48]" name="logInWithWorngPasswordTest" duration-ms="4688" started-at="2017-02-06T22:19:12Z" finished-at="2017-02-06T22:19:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInWithWorngPasswordTest -->
+      </class> <!-- com.eleks.emaildemo.tests.LogInWrongPasswordTest -->
+      <class name="com.eleks.emaildemo.tests.LogInNegativeTest">
+        <test-method status="PASS" signature="logInTest()[pri:0, instance:com.eleks.emaildemo.tests.LogInNegativeTest@5f2050f6]" name="logInTest" duration-ms="2352" started-at="2017-02-06T22:19:10Z" finished-at="2017-02-06T22:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+      </class> <!-- com.eleks.emaildemo.tests.LogInNegativeTest -->
+    </test> <!-- Tests -->
+  </suite> <!-- Suite -->
+</testng-results>

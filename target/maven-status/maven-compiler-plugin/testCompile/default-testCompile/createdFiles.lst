@@ -1,0 +1,5 @@
+com\eleks\emaildemo\tests\BasicTest.class
+com\eleks\emaildemo\tests\LogInNegativeTest.class
+com\eleks\emaildemo\tests\LogInTest.class
+com\eleks\emaildemo\tests\LogInWrongPasswordTest.class
+com\eleks\emaildemo\tests\ReadMailTest.class
